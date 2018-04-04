@@ -1,0 +1,35 @@
+{
+  "name": "export-jwks",
+  "version": "0.0.1",
+  "description": "Export public parts from jwks.json",
+  "main": "index.js",
+  "bin": "bin/export-jwks.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "echo 'No tests yet'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Collaborne/export-jwks.git"
+  },
+  "keywords": [
+    "JWK",
+    "export",
+    "public",
+    "private"
+  ],
+  "author": "Andreas Kohn <andreas.kohn@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Collaborne/export-jwks/issues"
+  },
+  "homepage": "https://github.com/Collaborne/export-jwks#readme",
+  "dependencies": {
+    "log4js": "^2.5.3",
+    "yargs": "^11.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-collaborne": "^1.1.1"
+  }
+}
