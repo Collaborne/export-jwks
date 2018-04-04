@@ -1,4 +1,4 @@
-# export-jwks
+# export-jwks [![Build Status](https://travis-ci.org/Collaborne/export-jwks.svg?branch=master)](https://travis-ci.org/Collaborne/export-jwks)
 
 This is a library and CLI tool to export the public parts of a jwks.json file
 
