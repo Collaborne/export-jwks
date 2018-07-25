@@ -1,6 +1,6 @@
 {
   "name": "export-jwks",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Export public parts from jwks.json",
   "main": "index.js",
   "bin": "bin/export-jwks.js",
